@@ -1,2 +1,2 @@
 # JavaScript
-with DreamCoding Elii
+with DreamCoding Ellie
